@@ -31,3 +31,4 @@ C:\Users\yk033\source\ASP.NET CORE MVC\lec01-introduction\lec01-introduction\obj
 C:\Users\yk033\source\ASP.NET CORE MVC\lec01-introduction\lec01-introduction\obj\Debug\net8.0\lec01-introduction.pdb
 C:\Users\yk033\source\ASP.NET CORE MVC\lec01-introduction\lec01-introduction\obj\Debug\net8.0\lec01-introduction.genruntimeconfig.cache
 C:\Users\yk033\source\ASP.NET CORE MVC\lec01-introduction\lec01-introduction\obj\Debug\net8.0\ref\lec01-introduction.dll
+C:\Users\yk033\source\Asp.net Core MVC\lec01-introduction\lec01-introduction\obj\Debug\net8.0\lec01-introduction.sourcelink.json

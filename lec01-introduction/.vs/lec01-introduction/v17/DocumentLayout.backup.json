@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|c:\\users\\yk033\\source\\asp.net core mvc\\lec01-introduction\\lec01-introduction\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|solutionrelative:lec01-introduction\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|c:\\users\\yk033\\source\\asp.net core mvc\\lec01-introduction\\lec01-introduction\\views\\about\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|solutionrelative:lec01-introduction\\views\\about\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|c:\\users\\yk033\\source\\asp.net core mvc\\lec01-introduction\\lec01-introduction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|solutionrelative:lec01-introduction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|c:\\users\\yk033\\source\\asp.net core mvc\\lec01-introduction\\lec01-introduction\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|solutionrelative:lec01-introduction\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|c:\\users\\yk033\\source\\asp.net core mvc\\lec01-introduction\\lec01-introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE32BBA0-1B50-4FFE-B8A2-12E8E3BCD7C0}|lec01-introduction\\lec01-introduction.csproj|solutionrelative:lec01-introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Views\\About\\Details.cshtml",
-              "RelativeDocumentMoniker": "lec01-introduction\\Views\\About\\Details.cshtml",
-              "ToolTip": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Views\\About\\Details.cshtml",
-              "RelativeToolTip": "lec01-introduction\\Views\\About\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-25T14:48:36.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "lec01-introduction\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "lec01-introduction\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T14:44:28.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "lec01-introduction\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "lec01-introduction\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Program.cs",
+              "RelativeDocumentMoniker": "lec01-introduction\\Program.cs",
+              "ToolTip": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Program.cs",
+              "RelativeToolTip": "lec01-introduction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T14:44:01.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "lec01-introduction\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yk033\\source\\ASP.NET CORE MVC\\lec01-introduction\\lec01-introduction\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "lec01-introduction\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-25T14:42:24.54Z",
+              "WhenOpened": "2026-04-30T14:43:45.214Z",
               "EditorCaption": ""
             }
           ]
